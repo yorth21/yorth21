@@ -30,4 +30,4 @@ Check out my work and learn more about me at [yorth.site](https://yorth.site).
 ### 🔗 Let's Connect
 - **Email:** yorth21@gmail.com
 - **LinkedIn:** [linkedin.com/in/yorth21](https://linkedin.com/in/yorth21)
-- **Twitter:** [@yorth21](https://twitter.com/yorth21)
+- **Twitter:** [@yorth21_](https://twitter.com/yorth21_)
