@@ -19,15 +19,4 @@ Check out my work and learn more about me at [yorth.site](https://yorth.site).
 - **Next.js 14 Project:** Developing a scalable web application with a focus on user experience and performance.
 - **.NET Framework Project:** Building a robust backend with secure authentication and real-time updates using SignalR.
 
-### 📈 GitHub Stats
-![Yorth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yorth21&show_icons=true&theme=radical)
 
-### 📝 Latest Blog Posts
-- [**Why I Chose .NET for Backend Development**](https://yorth.site/blog/net-backend)
-- [**Getting Started with Next.js 14**](https://yorth.site/blog/nextjs14)
-- [**How to Implement SignalR in Your Web Application**](https://yorth.site/blog/signalr)
-
-### 🔗 Let's Connect
-- **Email:** yorth21@gmail.com
-- **LinkedIn:** [linkedin.com/in/yorth21](https://linkedin.com/in/yorth21)
-- **Twitter:** [@yorth21_](https://twitter.com/yorth21_)
